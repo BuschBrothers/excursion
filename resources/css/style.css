@@ -1,18 +1,39 @@
 
-
 html {
   background-color: black;
   font-family: verdana;
+  text-align: center;
 }
 
 h1 {
   font-size: 50px;
   color: white;
-  text-align: center;
+}
+
+p {
+  font-size: 21px;
+  color: grey;
+}
+
+video {
+  margin-top: 20px;
+}
+
+footer {
+  text-align: right;
+  color: grey;
 }
 
 .marine {
   color: aquamarine;
   text-align: center;
-  background-color: orange;
+}
+
+.center {
+  display: block;
+  margin: 0 auto;
+}
+
+#img2 {
+  margin-top: 20px;
 }
